@@ -1,8 +1,8 @@
 {
   "name": "BMGhostWindow",
   "version": "0.1.0",
-  "summary": "A short description of BMGhostWindow.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "仿微信的浮窗功能实现.",
+  "description": "仿微信的浮窗功能实现，包含动画等。",
   "homepage": "https://github.com/benmy/BMGhostWindow",
   "license": {
     "type": "MIT",
@@ -18,5 +18,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "BMGhostWindow/Classes/**/*"
+  "source_files": "BMGhostWindow/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
 }

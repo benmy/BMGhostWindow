@@ -36,7 +36,7 @@
 
 #pragma mark - Private
 - (void)setUpView {
-    self.backgroundColor = [UIColor clearColor];
+    self.backgroundColor = [UIColor redColor];
     self.layer.contents = (__bridge id)[UIImage imageNamed:@"WebView_Minimize_Float_IconHL"].CGImage;
 }
 

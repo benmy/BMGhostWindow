@@ -22,7 +22,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.backgroundColor = [UIColor colorWithRed:0.3 green:0.3 blue:0.3 alpha:0.8];
-        self.title = @"拖动到此 开启浮窗";
+        self.title = @"浮窗";
         self.radius_0 = 18;
         self.radius_1 = 10;
         self.kCoef = 0.95;
