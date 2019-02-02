@@ -1,0 +1,16 @@
+PODS:
+  - BMGhostWindow (0.1.0)
+
+DEPENDENCIES:
+  - BMGhostWindow (from `../`)
+
+EXTERNAL SOURCES:
+  BMGhostWindow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BMGhostWindow: 4780e9f14b29bb488051dbdef7a3abca73b26b40
+
+PODFILE CHECKSUM: 3226984e8f3cdbfb8203075517745d0335b5b13c
+
+COCOAPODS: 1.4.0.beta.2

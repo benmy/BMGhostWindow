@@ -1,0 +1,22 @@
+{
+  "name": "BMGhostWindow",
+  "version": "0.1.0",
+  "summary": "A short description of BMGhostWindow.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/benmy/BMGhostWindow",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Benmy": "389931983@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/benmy/BMGhostWindow.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BMGhostWindow/Classes/**/*"
+}

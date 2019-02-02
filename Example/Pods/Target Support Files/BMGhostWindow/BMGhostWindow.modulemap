@@ -1,0 +1,6 @@
+framework module BMGhostWindow {
+  umbrella header "BMGhostWindow-umbrella.h"
+
+  export *
+  module * { export * }
+}
