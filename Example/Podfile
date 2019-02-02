@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'BMGhostWindow_Example' do
+  pod 'BMGhostWindow', :path => '../'
+
+  target 'BMGhostWindow_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
